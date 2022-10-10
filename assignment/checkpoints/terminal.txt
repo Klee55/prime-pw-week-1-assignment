@@ -28,4 +28,4 @@ to show what files/fodlers is modified, added, or commited, or in short what has
 it saves the changes so they can be committed
 
 # 10 - What is the command to push your committed changes to your repo on GitHub? 
-git push 
+git push orgin main
